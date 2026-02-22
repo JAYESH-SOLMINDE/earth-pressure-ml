@@ -175,6 +175,17 @@ streamlit run app.py
 Random Forest effectively captures nonlinear interactions between soil parameters and wall geometry.
 
 ---
+## 📸 Screenshots
+
+### User Interface
+![UI](screenshots/ui.png)
+
+### Low Earth Pressure Case
+![Green Case](screenshots/green_case.png)
+
+### High Earth Pressure Case
+![Red Case](screenshots/red_case.png)
+
 
 ## 🏁 Conclusion
 
